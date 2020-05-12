@@ -16,6 +16,9 @@ This is a simpkle web project, deployment can be on any web server or even local
 
 ## How To Continue 
 
+please fork this file then pull requests for review
+
+
 ### Copyright
 
 2014 Git.Training.
