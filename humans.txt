@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+ Will Lyte Will.lyte@gmail.com @steadi_brit
 
 # THANKS
 
