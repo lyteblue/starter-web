@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+Copyright 2014 Git.Training
+adding changes for rebase conflict example
+<<<<<<< HEAD
+more silly changes for rebase conflict example on master branch
+=======
+These changes are for the purpose of seting up a rebase conflict
+>>>>>>> 4c487e0... Adding some trouble to simple.html
+
+<head>
+	<title>A Very Respectful Website</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			im not sure what will go here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
